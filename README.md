@@ -10,9 +10,7 @@ Our repository contains a prototype that utilizes advanced AI models for object 
 This project is a collaborative effort by a dedicated team, showcasing the potential of AI in transforming urban traffic management.
 
 **Acknowledgments:**  
-I would like to express our heartfelt gratitude to our incredible team members: Anindya Mazumder, Purbasha Moni, Himadri, and Mishu!
-
-A special thanks to the University Innovation Hub-SUST for providing us with the platform, guidance, and support to turn our vision into reality. Together, we are excited to contribute to smarter, safer cities with ATOMS! 🏆✨
+I would like to express our heartfelt gratitude to our incredible team members and special thanks to the University Innovation Hub-SUST for providing us with the platform, guidance, and support to turn our vision into reality. Together, we are excited to contribute to smarter, safer cities with ATOMS! 🏆✨
 
 
 The prototype link 
